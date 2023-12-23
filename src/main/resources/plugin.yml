@@ -1,0 +1,62 @@
+main: org.cubeville.cvmonitor.CVMonitor
+name: CVMonitor
+version: 1.20
+api-version: 1.20
+description: 'CVMonitor Plugin'
+author: ToeMan_
+softdepend:
+  - ChestShop
+  - Citizens
+  - CommandHelper
+  - CoreProtect
+  - CVBasicNBT
+  - CVBlocks
+  - CVChat
+  - CVClaims
+  - CVCreativeItemControl
+  - CVCreativePlots
+  - CVElytraCraft
+  - CVFarmlands
+  - CVFlags
+  - CVHat
+  - CVHeadAnim
+  - CVHome
+  - CVIPC
+  - CVLiftSigns
+  - CVLoadouts
+  - CVLocation
+  - CVMenu
+  - CVMiningNotifier
+  - CVMobCap
+  - CVNetherPortalBlocker
+  - CVOptionMenu
+  - CVPlayerSpleefUtil
+  - CVPortal
+  - CVRanks
+  - CVReturn
+  - CVTools
+  - CVVanish
+  - CVWorldEdit
+  - Denizen
+  - DiscordSender
+  - FastAsyncWorldEdit
+  - HeadDatabase
+  - LibsDisguises
+  - Luckperms
+  - LWCX
+  - Multiverse-Core
+  - NullTerrain
+  - OpenInv
+  - Orebfuscator
+  - PlaceholderAPI
+  - ProtocolLib
+  - SaferWater
+  - Sentinel
+  - Spark
+  - SystemChat
+  - Vault
+  - ViaVersion
+  - VoxelSniper
+  - WorldEdit
+  - Worldguard
+commands:
